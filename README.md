@@ -13,5 +13,5 @@
 <br>
 <img width="307" alt="Screen Shot 2022-06-14 at 1 09 45 pm" src="https://user-images.githubusercontent.com/68840709/173487231-51cbe240-2ed4-405d-b492-8be439ea87df.png">
 
-
+## I used my current workplace (Compass Education pty ltd) name and logo for my data.
 #### For any inquiries, contact me on my linkedIn @timalpathirana
