@@ -22,7 +22,7 @@ struct VideoListView: View {
                     VideoView(video: video)
                 })
             }
-            .navigationTitle("Compass Education")
+            .navigationTitle("Hartnett Media - Top")
             
         }
         
@@ -35,10 +35,10 @@ struct VideoListView: View {
         var body: some View {
             
             HStack{
-                Image("img1")
+                Image(video.imageName)
                     .resizable()
                     .scaledToFit()
-                    .frame(width: 100, height: 100)
+                    .frame(width: 120, height: 100)
                     .cornerRadius(20)
                 
                 VStack (alignment: .leading, spacing: 5){

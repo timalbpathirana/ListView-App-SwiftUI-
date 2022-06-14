@@ -12,9 +12,9 @@ struct VideoDetailView: View {
     var body: some View {
         VStack(spacing: 20){
             Spacer()
-            Image("img1")
+            Image(videoItem.imageName)
                 .resizable()
-                .frame(width: 200, height: 200, alignment: .center)
+                .frame(width: 600, height: 200, alignment: .center)
             Text(videoItem.title)
                 .fontWeight(.semibold)
                 .multilineTextAlignment(.center)
